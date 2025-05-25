@@ -23,6 +23,3 @@ An E-commerce website for phone parts using ASP.NET MVC.
 - C#
 - ASP.NET
 - Sql Server
-
-## Database Design
-![erd](https://github.com/Mahmoud0-0Salah/Phone_shop/assets/126424722/73207e6d-af6e-4485-90d6-5f98cffae157)
